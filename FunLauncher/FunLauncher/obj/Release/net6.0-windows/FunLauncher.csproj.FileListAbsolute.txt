@@ -1,0 +1,17 @@
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\bin\Release\net6.0-windows\FunLauncher.exe
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\bin\Release\net6.0-windows\FunLauncher.deps.json
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\bin\Release\net6.0-windows\FunLauncher.runtimeconfig.json
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\bin\Release\net6.0-windows\FunLauncher.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\bin\Release\net6.0-windows\FunLauncher.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.csproj.AssemblyReference.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.FunLauncherWindow.resources
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.csproj.GenerateResource.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.AssemblyInfoInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.AssemblyInfo.cs
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.csproj.CoreCompileInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\refint\FunLauncher.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\FunLauncher.genruntimeconfig.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\FunLauncher\FunLauncher\obj\Release\net6.0-windows\ref\FunLauncher.dll

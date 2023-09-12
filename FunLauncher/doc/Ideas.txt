@@ -1,0 +1,40 @@
+FunLauncher
+
+Internet
+-Firefox +
+-Edge +
+-Chrome +
+-Internet Explorer (Fix Function Needed) +
+
+Tools
+-Notepad +
+-cmd +
+-Rotate Screen +
+-Internet Explorer Fix (Administrator Needed)(C:\Program Files (x86)\Microsoft\Edge\Application\115.0.1901.200\BHO)
+
+Student Tools
+-Panic Buttons (Close and Screen Off) +
+
+Features
+-Notes (Direct Stuff? (Binary??))
+
+Trolls Stuff
+-Random Rotates +
+-CPS Based Troll (Exploits: AutoReboot or HAL NUKE)
+-hal.dll Nuke (Definetly Dont Touch)
+-AutostartShutdown (Maybe Reboot) (C:\Users\mycharacter\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) (shell:startup) (shutdown -a to cancel) (/c " " to hide /t 0 /f
+-Play Audio (And Unmute Audio (NirCMD))
+-Open Random Websites
+-PopUp Spam (Random Chance: Spamtom, Jevil and Theme Playing)
+-Force Caps Enable +
+
+"Exploits"
+-HAL Nuke
+-AutoReboot
+
+
+(-Transparent Windows for Bugs)
+
+
+Preparation
+-Have a Presetup VM
